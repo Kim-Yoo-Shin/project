@@ -13,7 +13,7 @@ services:
     environment: 
       - MYSQL_DATABASE=sa
       - MYSQL_ROOT_PASSWORD=sa
-      - MYSQL_USER=root
+      - MYSQL_USER=root1
       - MYSQL_PASSWORD=sa
 
   spring-boot:
